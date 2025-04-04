@@ -1,0 +1,24 @@
+name: tf-driving
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.2
+  - cudnn=8.1.0
+  - pandas
+  - numpy
+  - pillow
+  - matplotlib
+  - tqdm
+  - scikit-learn
+  - jupyter
+  - notebook
+  - opencv
+  - tensorboard
+  - pydot
+  - graphviz
+  - pip
+  - pip:
+    - "tensorflow<2.11"
+    - keras-preprocessing
