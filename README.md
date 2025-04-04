@@ -1,4 +1,4 @@
-This is# Raspberry Pi Self-Driving Car
+This is a Raspberry Pi Self-Driving Car
 
 A TensorFlow-based autonomous vehicle platform running on Raspberry Pi.
 
